@@ -1,0 +1,28 @@
+*.ilk
+*.exe
+.vs/
+/*.dat
+*.sdf
+.tmp/
+.tmp\
+*.obj
+*.sbr
+*.tlog
+*.idb
+*.pdb
+*.log
+*.pch
+*.recipe
+*.bsc
+*\.pch
+/*.pch
+*.iobj
+.build/
+Global Release/*
+Global Debug/*
+source/Global Release/*
+source/Global Debug/*
+*.txt
+*.jpg
+build/bin/x86/Global Debug/Main.exe
+Output/Main

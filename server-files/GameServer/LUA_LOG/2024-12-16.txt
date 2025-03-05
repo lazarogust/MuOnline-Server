@@ -1,0 +1,12 @@
+15:31:35 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+15:31:36 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+15:31:37 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:14:24 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:14 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:40 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:40 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:41 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:42 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:42 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:42 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+18:15:42 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number

@@ -1,0 +1,1 @@
+14:23:59 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number

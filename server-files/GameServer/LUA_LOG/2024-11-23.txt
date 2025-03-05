@@ -1,0 +1,5 @@
+07:50:18 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+07:50:19 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+09:49:59 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+09:50:00 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number
+09:50:00 [GameServerProtocol] error: ..\Data\Scripts\Systems\\LuckyEvent.lua:92: attempt to compare nil with number

@@ -1,0 +1,2 @@
+13:59:19 [NpcTalk] error: ..\Data\Scripts\LuaSystem\\GameServerFunctions.lua:273: attempt to index global 'Central' (a nil value)
+14:03:33 [NpcTalk] error: ..\Data\Scripts\LuaSystem\\GameServerFunctions.lua:273: attempt to index global 'Central' (a nil value)

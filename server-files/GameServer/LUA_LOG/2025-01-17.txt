@@ -1,0 +1,3 @@
+19:38:36 [ChatProc] error: ..\Data\Scripts\Commands\\ClearInventory.lua:24: attempt to call method 'getLock' (a nil value)
+19:39:51 [ChatProc] error: ..\Data\Scripts\Commands\\ClearInventory.lua:24: attempt to call method 'getLock' (a nil value)
+19:51:42 [ChatProc] error: ..\Data\Scripts\Commands\\ClearInventory.lua:24: attempt to call method 'getLock' (a nil value)

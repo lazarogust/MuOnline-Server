@@ -1,0 +1,4 @@
+15:34:48 [SocketManager] Server started at port [44405]
+15:34:48 [ServerList] ServerList loaded successfully
+15:34:50 [ServerList] JoinServer online
+15:34:52 [ServerList] GameServer online (GameServer) (1)

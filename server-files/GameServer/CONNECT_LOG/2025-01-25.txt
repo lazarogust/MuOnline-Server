@@ -1,0 +1,1 @@
+01:45:15 [SocketManager] Protocol header error (Index: 9001, Header: 16)

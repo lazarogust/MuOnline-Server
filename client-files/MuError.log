@@ -1,0 +1,244 @@
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.00a (Eng) executed. (1.0.1.0)
+2025/02/02 02:02
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: AuthenticAMD - AMD Unknown 3693Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> Enum display settings.
+> Screen size = 1680 x 1050.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Fones de ouvido (2- H510-PRO Wireless headset)
+Sound Card Driver	: {0.0.0.00000000}.{b143d319-12b4-404b-876a-eae6e937779e} (0.0.32788.30599)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+File not found Data\Effect\Shiny04.jpg (32118)->Data\Effect\Shiny05.jpg
+> First Load Files OK.
+File not found Data\Player\gloves_02.jpg (33028)->Data\Custom\NewInterface\btn_previous.jpg
+File not found Data\Player\boots_02.jpg (33029)->Data\Custom\NewInterface\btn_next.jpg
+File not found Data\Interface\newui_party_x.tga (31548)->Data\Custom\NewInterface\btn_close_v2.jpg
+File not found Data\Interface\newui_item_back01.tga (31347)->Data\Interface\newui_item_back04.tga
+File not found Data\Interface\newui_item_back04.tga (31347)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+[Connect to Server] ip address = 192.168.1.15, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.1.15, port = 55901
+> Login Request.
+> Try to Login "teste"
+> Request Character list
+File not found Data\World75\leaf01.tga (30357)->Data\World75\leaf01.jpg
+> Character scene init success.
+> Character selected <1> "MagoX"
+> Main Scene init success. 2025/02/02 02:02
+File not found Data\World75\leaf01.jpg (30357)->Data\World1\leaf01.tga
+File not found Data\World1\leaf01.tga (30357)->Data\World1\leaf01.jpg
+File not found Data\World75\leaf02.jpg (30358)->Data\World1\leaf02.jpg
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.00a (Eng) executed. (1.0.1.0)
+2025/02/02 02:04
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: AuthenticAMD - AMD Unknown 3693Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> Enum display settings.
+> Screen size = 1680 x 1050.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Fones de ouvido (2- H510-PRO Wireless headset)
+Sound Card Driver	: {0.0.0.00000000}.{b143d319-12b4-404b-876a-eae6e937779e} (0.0.32788.30599)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+File not found Data\Effect\Shiny04.jpg (32118)->Data\Effect\Shiny05.jpg
+> First Load Files OK.
+File not found Data\Player\gloves_02.jpg (33028)->Data\Custom\NewInterface\btn_previous.jpg
+File not found Data\Player\boots_02.jpg (33029)->Data\Custom\NewInterface\btn_next.jpg
+File not found Data\Interface\newui_party_x.tga (31548)->Data\Custom\NewInterface\btn_close_v2.jpg
+File not found Data\Interface\newui_item_back01.tga (31347)->Data\Interface\newui_item_back04.tga
+File not found Data\Interface\newui_item_back04.tga (31347)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+[Connect to Server] ip address = 192.168.1.15, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.1.15, port = 55901
+> Login Request.
+> Try to Login "teste"
+> Request Character list
+File not found Data\World75\leaf01.tga (30357)->Data\World75\leaf01.jpg
+> Character scene init success.
+> Character selected <1> "MagoX"
+> Main Scene init success. 2025/02/02 02:05
+File not found Data\World75\leaf01.jpg (30357)->Data\World1\leaf01.tga
+File not found Data\World1\leaf01.tga (30357)->Data\World1\leaf01.jpg
+File not found Data\World75\leaf02.jpg (30358)->Data\World1\leaf02.jpg
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.00a (Eng) executed. (1.0.1.0)
+2025/02/02 02:06
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: AuthenticAMD - AMD Unknown 3693Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> Enum display settings.
+> Screen size = 1680 x 1050.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Fones de ouvido (2- H510-PRO Wireless headset)
+Sound Card Driver	: {0.0.0.00000000}.{b143d319-12b4-404b-876a-eae6e937779e} (0.0.32788.30599)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+File not found Data\Effect\Shiny04.jpg (32118)->Data\Effect\Shiny05.jpg
+> First Load Files OK.
+File not found Data\Player\gloves_02.jpg (33028)->Data\Custom\NewInterface\btn_previous.jpg
+File not found Data\Player\boots_02.jpg (33029)->Data\Custom\NewInterface\btn_next.jpg
+File not found Data\Interface\newui_party_x.tga (31548)->Data\Custom\NewInterface\btn_close_v2.jpg
+File not found Data\Interface\newui_item_back01.tga (31347)->Data\Interface\newui_item_back04.tga
+File not found Data\Interface\newui_item_back04.tga (31347)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+[Connect to Server] ip address = 192.168.1.15, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.00a (Eng) executed. (1.0.1.0)
+2025/02/02 02:31
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: AuthenticAMD - AMD Unknown 3693Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> Enum display settings.
+> Screen size = 1680 x 1050.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Fones de ouvido (2- H510-PRO Wireless headset)
+Sound Card Driver	: {0.0.0.00000000}.{b143d319-12b4-404b-876a-eae6e937779e} (0.0.32788.30599)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+File not found Data\Effect\Shiny04.jpg (32118)->Data\Effect\Shiny05.jpg
+> First Load Files OK.
+File not found Data\Player\gloves_02.jpg (33028)->Data\Custom\NewInterface\btn_previous.jpg
+File not found Data\Player\boots_02.jpg (33029)->Data\Custom\NewInterface\btn_next.jpg
+File not found Data\Interface\newui_party_x.tga (31548)->Data\Custom\NewInterface\btn_close_v2.jpg
+File not found Data\Interface\newui_item_back01.tga (31347)->Data\Interface\newui_item_back04.tga
+File not found Data\Interface\newui_item_back04.tga (31347)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+[Connect to Server] ip address = 192.168.1.15, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.1.15, port = 55901
+> Login Request.
+> Try to Login "teste"
+> Request Character list
+File not found Data\World75\leaf01.tga (30357)->Data\World75\leaf01.jpg
+> Character scene init success.
+> Character selected <1> "MagoX"
+> Main Scene init success. 2025/02/02 02:33
+File not found Data\World75\leaf01.jpg (30357)->Data\World1\leaf01.tga
+File not found Data\World1\leaf01.tga (30357)->Data\World1\leaf01.jpg
+File not found Data\World75\leaf02.jpg (30358)->Data\World1\leaf02.jpg
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.00a (Eng) executed. (1.0.1.0)
+2025/02/02 02:38
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: AuthenticAMD - AMD Unknown 3693Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> Enum display settings.
+> Screen size = 1680 x 1050.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Fones de ouvido (2- H510-PRO Wireless headset)
+Sound Card Driver	: {0.0.0.00000000}.{b143d319-12b4-404b-876a-eae6e937779e} (0.0.32788.30599)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+File not found Data\Effect\Shiny04.jpg (32118)->Data\Effect\Shiny05.jpg
+> First Load Files OK.
+File not found Data\Player\gloves_02.jpg (33028)->Data\Custom\NewInterface\btn_previous.jpg
+File not found Data\Player\boots_02.jpg (33029)->Data\Custom\NewInterface\btn_next.jpg
+File not found Data\Interface\newui_party_x.tga (31548)->Data\Custom\NewInterface\btn_close_v2.jpg
+File not found Data\Interface\newui_item_back01.tga (31347)->Data\Interface\newui_item_back04.tga
+File not found Data\Interface\newui_item_back04.tga (31347)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+[Connect to Server] ip address = 192.168.1.15, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 192.168.1.15, port = 55901
+> Login Request.
+> Try to Login "teste"
+> Request Character list
+File not found Data\World75\leaf01.tga (30357)->Data\World75\leaf01.jpg
+> Character scene init success.
+> Character selected <1> "MagoX"
+> Main Scene init success. 2025/02/02 02:38
+File not found Data\World75\leaf01.jpg (30357)->Data\World1\leaf01.tga
+File not found Data\World1\leaf01.tga (30357)->Data\World1\leaf01.jpg
+File not found Data\World75\leaf02.jpg (30358)->Data\World1\leaf02.jpg
+[Socket Closed][Clear PacketQueue]
+Destroy
